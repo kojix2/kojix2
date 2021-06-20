@@ -1,5 +1,6 @@
 
 ### Hi there 👋
+<img align='right' src="https://user-images.githubusercontent.com/5798442/122665572-f51c0380-d1e2-11eb-9fd1-96441a8e9953.png" width="80" height="80">
 
 #### Plotting
 
