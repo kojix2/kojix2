@@ -1,20 +1,26 @@
 ### Hi there 👋
 
-<!--
-**kojix2/kojix2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Plotting
 
-Here are some ideas to get you started:
+* [GR.rb](https://github.com/red-data-tools/GR.rb)
+* [YouPlot](https://github.com/red-data-tools/YouPlot)
+* [seaborn-command](https://github.com/kojix2/seaborn-command)
+* [GR.cr](https://github.com/kojix2/GR.cr)
+* [nuplot](https://github.com/kojix2/nuplot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Bioinformatics
 
-[![](https://raw.githubusercontent.com/kojix2/kojix2/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kojix2/kojix2/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kojix2/kojix2/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+* [ruby-htslib](https://github.com/kojix2/ruby-htslib)
+* [ruby-minimap2](https://github.com/kojix2/ruby-minimap2)
+* [ruby-libssw](https://github.com/kojix2/ruby-libssw)
+* [ruby-igv](https://github.com/kojix2/ruby-igv)
+* [htslib.cr](https://github.com/kojix2/htslib.cr)
+
+#### Others
+
+* [LibUI](https://github.com/kojix2/LibUI)
+* [iruby](https://github.com/SciRuby/iruby)
+* [Gray-Scott](https://github.com/kojix2/Gray-Scott)
+* [Rdatasets](https://github.com/kojix2/Rdatasets)
+* [yardview](https://github.com/kojix2/YardView)
+* [ProbabilityCalculator](https://github.com/kojix2/ProbabilityCalculator)
