@@ -10,6 +10,8 @@
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [rubio-radio](https://github.com/kojix2/rubio-radio) ☆14
 
+* [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆4
+
 Committer
 
 * [IRuby](https://github.com/sciruby/iruby)
@@ -53,7 +55,6 @@ Crystal
 * [nworker.cr](https://github.com/kojix2/nworkers.cr) ☆1
 * [deepl.cr](https://github.com/kojix2/deepl.cr) ☆1
 * [EasyClip](https://github.com/kojix2/easyclip) ☆1
-* [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆4
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆1
 
