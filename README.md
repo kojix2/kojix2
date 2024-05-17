@@ -56,6 +56,7 @@ Crystal
 * [EasyClip](https://github.com/kojix2/easyclip) ☆1
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆1
+* [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆2
 
 </td><td valign="top">
 
