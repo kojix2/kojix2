@@ -45,7 +45,7 @@ Ruby
 
 * [ruby-alglib](https://github.com/kojix2/ruby-alglib) ☆3
 * [ffi-bitfield](https://github.com/kojix2/ffi-bitfield) ☆5
-* [gray_scott_gtk3](https://github.com/kojix2/gray_scott_gtk3)
+* [gray_scott_gtk3](https://github.com/kojix2/gray_scott_gtk3) ☆0
 
 Crystal
 
@@ -56,6 +56,7 @@ Crystal
 * [EasyClip](https://github.com/kojix2/easyclip) ☆1
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆0
+* [checksum.cr](https://github.com/kojix2/checksum.cr) ☆0
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆3
 
 </td><td valign="top">
