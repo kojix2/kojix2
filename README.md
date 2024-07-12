@@ -61,6 +61,9 @@ Crystal
 
 </td><td valign="top">
 
+<img src="https://github.com/user-attachments/assets/b204d192-f51c-4667-91c9-51ca4a698fab" width="100" height="100">
+
+</td>
 </tr></table>
 
 This list consists of projects that I'm a part of that are still maintained.  
