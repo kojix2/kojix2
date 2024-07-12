@@ -3,7 +3,7 @@
 ### Popular
 
 * [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.0k
-* [LibUI](https://github.com/kojix2/LibUI) ☆201
+* [LibUI](https://github.com/kojix2/LibUI) ☆202
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆92
 * [chatgpt-cli](https://github.com/kojix2/chatgpt-cli) ☆24
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆16
@@ -45,7 +45,7 @@ Ruby
 
 * [ruby-alglib](https://github.com/kojix2/ruby-alglib) ☆3
 * [ffi-bitfield](https://github.com/kojix2/ffi-bitfield) ☆5
-* [gray_scott_gtk3](https://github.com/kojix2/gray_scott_gtk3) ☆0
+* [gray_scott_gtk3](https://github.com/kojix2/gray_scott_gtk3) ☆3
 
 Crystal
 
