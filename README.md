@@ -5,7 +5,7 @@
 * [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.0k
 * [LibUI](https://github.com/kojix2/LibUI) ☆202
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆92
-* [chatgpt-cli](https://github.com/kojix2/chatgpt-cli) ☆24
+* [chatgpt-cli](https://github.com/kojix2/chatgpt-cli) ☆25
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆16
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [rubio-radio](https://github.com/kojix2/rubio-radio) ☆14
