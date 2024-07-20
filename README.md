@@ -55,7 +55,7 @@ Crystal
 * [deepl.cr](https://github.com/kojix2/deepl.cr) ☆1
 * [EasyClip](https://github.com/kojix2/easyclip) ☆1
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
-* [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆0
+* [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆1
 * [checksum.cr](https://github.com/kojix2/checksum.cr) ☆0
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆3
 
