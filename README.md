@@ -13,7 +13,7 @@
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆841
+* [IRuby](https://github.com/sciruby/iruby) ☆845
 
 </td><td valign="top">
 
@@ -21,7 +21,7 @@ Committer
 
 Ruby
 
-* [ruby-htslib](https://github.com/kojix2/ruby-htslib) ☆9
+* [ruby-htslib](https://github.com/kojix2/ruby-htslib) ☆10
 * [ruby-minimap2](https://github.com/kojix2/ruby-minimap2) ☆14
 * [bio-twobit](https://github.com/kojix2/bio-twobit) ☆1
 * [ruby-igv](https://github.com/kojix2/ruby-igv) ☆0
@@ -57,7 +57,7 @@ Crystal
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆1
 * [checksum.cr](https://github.com/kojix2/checksum.cr) ☆0
-* [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆3
+* [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
 
 </td><td valign="top">
 
