@@ -3,7 +3,7 @@
 ### Popular
 
 * [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.0k
-* [LibUI](https://github.com/kojix2/LibUI) ☆202
+* [LibUI](https://github.com/kojix2/LibUI) ☆203
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆93
 * [chatgpt-cli](https://github.com/kojix2/chatgpt-cli) ☆25
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆20
@@ -13,7 +13,7 @@
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆851
+* [IRuby](https://github.com/sciruby/iruby) ☆852
 
 </td><td valign="top">
 
