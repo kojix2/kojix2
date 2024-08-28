@@ -9,11 +9,11 @@
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆20
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [rubio-radio](https://github.com/kojix2/rubio-radio) ☆14
-* [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆6
+* [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆7
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆852
+* [IRuby](https://github.com/sciruby/iruby) ☆872
 
 </td><td valign="top">
 
