@@ -32,20 +32,21 @@ Ruby
 
 Crystal
 
-* [hts.cr](https://github.com/kojix2/hts.cr) ☆0
+* [hts.cr](https://github.com/bio-cr/hts.cr) ☆0
 * [sdust.cr](https://github.com/kojix2/sdust.cr) ☆1
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [fastx.cr](https://github.com/kojix2/fastx.cr) ☆1
 
 </td><td valign="top">
 
-### Misc
+### Misc 1
 
 Ruby
 
 * [ruby-alglib](https://github.com/kojix2/ruby-alglib) ☆3
 * [ffi-bitfield](https://github.com/kojix2/ffi-bitfield) ☆5
 * [gray_scott_gtk3](https://github.com/kojix2/gray_scott_gtk3) ☆3
+* [c2ffi4rb](https://github.com/kojix2/c2ffi4rb) ☆0
 
 Crystal
 
@@ -54,10 +55,19 @@ Crystal
 * [nworker.cr](https://github.com/kojix2/nworkers.cr) ☆1
 * [deepl.cr](https://github.com/kojix2/deepl.cr) ☆1
 * [EasyClip](https://github.com/kojix2/easyclip) ☆1
-* [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
-* [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆1
 * [checksum.cr](https://github.com/kojix2/checksum.cr) ☆0
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
+
+</td><td valign="top">
+
+### Misc 2
+
+* [bat-c](https://github.com/kojix2/bat-c) ☆0
+* [wombat](https://github.com/kojix2/wombat) ☆0
+* [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆1
+* [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
+* [uing](https://github.com/kojix2/uing) ☆0
+
 
 </td><td valign="top">
 
