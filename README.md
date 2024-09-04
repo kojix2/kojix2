@@ -32,7 +32,7 @@ Ruby
 
 Crystal
 
-* [hts.cr](https://github.com/bio-cr/hts.cr) ☆0
+* [hts.cr](https://github.com/bio-cr/hts.cr) ☆10
 * [sdust.cr](https://github.com/kojix2/sdust.cr) ☆1
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [fastx.cr](https://github.com/kojix2/fastx.cr) ☆1
@@ -62,11 +62,11 @@ Crystal
 
 ### Misc 2
 
-* [bat-c](https://github.com/kojix2/bat-c) ☆0
-* [wombat](https://github.com/kojix2/wombat) ☆0
+* [bat-c](https://github.com/kojix2/bat-c) ☆1
+* [wombat](https://github.com/kojix2/wombat) ☆1
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆1
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
-* [uing](https://github.com/kojix2/uing) ☆0
+* [uing](https://github.com/kojix2/uing) ☆1
 
 
 </td><td valign="top">
