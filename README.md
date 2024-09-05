@@ -6,7 +6,7 @@
 * [LibUI](https://github.com/kojix2/LibUI) ☆203
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆93
 * [chatgpt-cli](https://github.com/kojix2/chatgpt-cli) ☆25
-* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆22
+* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆23
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [rubio-radio](https://github.com/kojix2/rubio-radio) ☆14
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆7
@@ -26,7 +26,7 @@ Ruby
 * [bio-twobit](https://github.com/kojix2/bio-twobit) ☆1
 * [ruby-igv](https://github.com/kojix2/ruby-igv) ☆0
 * [bio-cgranges](https://github.com/kojix2/bio-cgranges) ☆0
-* [ruby-edlib](https://github.com/kojix2/ruby-edlib) ☆1
+* [ruby-edlib](https://github.com/kojix2/ruby-edlib) ☆2
 * [ruby-libssw](https://github.com/kojix2/ruby-libssw) ☆4
 * [ruby-minigraph](https://github.com/kojix2/ruby-minigraph) ☆0
 
