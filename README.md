@@ -29,6 +29,7 @@ Ruby
 * [ruby-edlib](https://github.com/kojix2/ruby-edlib) ☆2
 * [ruby-libssw](https://github.com/kojix2/ruby-libssw) ☆4
 * [ruby-minigraph](https://github.com/kojix2/ruby-minigraph) ☆0
+* [bio-bigwig](https://github.com/kojix2/bio-bigwig) ☆0
 
 Crystal
 
