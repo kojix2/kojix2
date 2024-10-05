@@ -13,7 +13,7 @@
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆890
+* [IRuby](https://github.com/sciruby/iruby) ☆891
 
 </td><td valign="top">
 
@@ -68,7 +68,7 @@ Crystal
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆1
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
 * [uing](https://github.com/kojix2/uing) ☆1
-* [gpscan](https://github.com/kojix2/gpscan) ☆0
+* [gpscan](https://github.com/kojix2/gpscan) ☆1
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
 
 </td><td valign="top">
