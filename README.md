@@ -6,14 +6,14 @@
 * [LibUI](https://github.com/kojix2/LibUI) ☆204
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆93
 * [chatgpt-cli](https://github.com/kojix2/chatgpt-cli) ☆25
-* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆25
+* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆26
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [rubio-radio](https://github.com/kojix2/rubio-radio) ☆14
-* [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆7
+* [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆8
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆892
+* [IRuby](https://github.com/sciruby/iruby) ☆893
 
 </td><td valign="top">
 
