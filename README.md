@@ -30,6 +30,8 @@ Ruby
 * [ruby-libssw](https://github.com/kojix2/ruby-libssw) ☆4
 * [ruby-minigraph](https://github.com/kojix2/ruby-minigraph) ☆0
 * [bio-bigwig](https://github.com/kojix2/bio-bigwig) ☆0
+* [samtools-mruby](https://github.com/kojix2/samtools-mruby) ☆0
+* [bcftools-mruby](https://github.com/kojix2/bcftools-mruby) ☆0
 
 Crystal
 
