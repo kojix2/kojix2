@@ -4,7 +4,7 @@
 
 * [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.2k
 * [LibUI](https://github.com/kojix2/LibUI) ☆204
-* [GR.rb](https://github.com/red-data-tools/GR.rb) ☆93
+* [GR.rb](https://github.com/red-data-tools/GR.rb) ☆94
 * [chatgpt-cli](https://github.com/kojix2/chatgpt-cli) ☆25
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆26
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
@@ -13,7 +13,7 @@
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆897
+* [IRuby](https://github.com/sciruby/iruby) ☆898
 
 </td><td valign="top">
 
