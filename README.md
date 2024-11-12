@@ -69,7 +69,7 @@ Crystal
 * [wombat](https://github.com/kojix2/wombat) ☆1
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆1
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
-* [uing](https://github.com/kojix2/uing) ☆1
+* [uing](https://github.com/kojix2/uing) ☆2
 * [gpscan](https://github.com/kojix2/gpscan) ☆1
 * [deepl-gui](https://github.com/kojix2/deepl-gui) ☆0
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
