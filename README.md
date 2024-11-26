@@ -68,6 +68,7 @@ Crystal
 * [bat-c](https://github.com/kojix2/bat-c) ☆2
 * [wombat](https://github.com/kojix2/wombat) ☆1
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆1
+* [lolcat.cr](https://github.com/kojix2/lolcat.cr) ☆0
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
 * [uing](https://github.com/kojix2/uing) ☆2
 * [gpscan](https://github.com/kojix2/gpscan) ☆1
