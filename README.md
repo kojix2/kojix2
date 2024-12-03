@@ -3,7 +3,7 @@
 ### Popular
 
 * [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.2k
-* [LibUI](https://github.com/kojix2/LibUI) ☆208
+* [LibUI](https://github.com/kojix2/LibUI) ☆209
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆94
 * [chatgpt-cli](https://github.com/kojix2/chatgpt-cli) ☆25
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆29
@@ -67,8 +67,8 @@ Crystal
 
 * [bat-c](https://github.com/kojix2/bat-c) ☆2
 * [wombat](https://github.com/kojix2/wombat) ☆1
-* [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆1
-* [lolcat.cr](https://github.com/kojix2/lolcat.cr) ☆1
+* [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆2
+* [lolcat.cr](https://github.com/kojix2/lolcat.cr) ☆2
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
 * [uing](https://github.com/kojix2/uing) ☆2
 * [gpscan](https://github.com/kojix2/gpscan) ☆1
