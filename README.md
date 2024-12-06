@@ -8,7 +8,7 @@
 * [chatgpt-cli](https://github.com/kojix2/chatgpt-cli) ☆25
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆29
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
-* [rubio-radio](https://github.com/kojix2/rubio-radio) ☆14
+* [rubio-radio](https://github.com/kojix2/rubio-radio) ☆15
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆8
 
 Committer
