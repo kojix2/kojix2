@@ -8,8 +8,8 @@
 * [chatgpt-cli](https://github.com/kojix2/chatgpt-cli) ☆25
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆29
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
-* [rubio-radio](https://github.com/kojix2/rubio-radio) ☆15
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆8
+* [gpscan](https://github.com/kojix2/gpscan) ☆1
 
 Committer
 
@@ -46,6 +46,7 @@ Crystal
 
 Ruby
 
+* [rubio-radio](https://github.com/kojix2/rubio-radio) ☆15
 * [ruby-alglib](https://github.com/kojix2/ruby-alglib) ☆4
 * [ffi-bitfield](https://github.com/kojix2/ffi-bitfield) ☆5
 * [gray_scott_gtk3](https://github.com/kojix2/gray_scott_gtk3) ☆3
@@ -71,7 +72,6 @@ Crystal
 * [lolcat.cr](https://github.com/kojix2/lolcat.cr) ☆2
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
 * [uing](https://github.com/kojix2/uing) ☆2
-* [gpscan](https://github.com/kojix2/gpscan) ☆1
 * [deepl-gui](https://github.com/kojix2/deepl-gui) ☆0
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
 
