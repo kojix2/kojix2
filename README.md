@@ -13,7 +13,7 @@
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆904
+* [IRuby](https://github.com/sciruby/iruby) ☆905
 
 </td><td valign="top">
 
