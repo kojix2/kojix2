@@ -21,6 +21,9 @@ Committer
 
 Ruby
 
+* [samtools-mruby](https://github.com/kojix2/samtools-mruby) ☆0
+* [bcftools-mruby](https://github.com/kojix2/bcftools-mruby) ☆0
+
 * [ruby-htslib](https://github.com/kojix2/ruby-htslib) ☆10
 * [ruby-minimap2](https://github.com/kojix2/ruby-minimap2) ☆14
 * [bio-twobit](https://github.com/kojix2/bio-twobit) ☆1
@@ -30,8 +33,6 @@ Ruby
 * [ruby-libssw](https://github.com/kojix2/ruby-libssw) ☆4
 * [ruby-minigraph](https://github.com/kojix2/ruby-minigraph) ☆0
 * [bio-bigwig](https://github.com/kojix2/bio-bigwig) ☆0
-* [samtools-mruby](https://github.com/kojix2/samtools-mruby) ☆0
-* [bcftools-mruby](https://github.com/kojix2/bcftools-mruby) ☆0
 
 Crystal
 
