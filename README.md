@@ -23,7 +23,6 @@ Ruby
 
 * [samtools-mruby](https://github.com/kojix2/samtools-mruby) ☆0
 * [bcftools-mruby](https://github.com/kojix2/bcftools-mruby) ☆0
-
 * [ruby-htslib](https://github.com/kojix2/ruby-htslib) ☆10
 * [ruby-minimap2](https://github.com/kojix2/ruby-minimap2) ☆14
 * [bio-twobit](https://github.com/kojix2/bio-twobit) ☆1
