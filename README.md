@@ -15,6 +15,10 @@ Committer
 
 * [IRuby](https://github.com/sciruby/iruby) ☆912
 
+Web App
+
+* [tokei-api](https://github.com/kojix2/tokei-api) ☆0
+
 </td><td valign="top">
 
 ### Bioinformatics
