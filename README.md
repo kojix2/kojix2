@@ -13,7 +13,7 @@
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆912
+* [IRuby](https://github.com/sciruby/iruby) ☆913
 
 Web App
 
@@ -66,7 +66,7 @@ Crystal
 * [checksum.cr](https://github.com/kojix2/checksum.cr) ☆0
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
 * [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆1
-* [llama.cr](https://github.com/kojix2/llama.cr) ☆1
+* [llama.cr](https://github.com/kojix2/llama.cr) ☆3
 
 </td><td valign="top">
 
