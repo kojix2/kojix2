@@ -65,8 +65,8 @@ Crystal
 * [EasyClip](https://github.com/kojix2/easyclip) ☆1
 * [checksum.cr](https://github.com/kojix2/checksum.cr) ☆0
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
-* [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆1
-* [llama.cr](https://github.com/kojix2/llama.cr) ☆3
+* [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆2
+* [llama.cr](https://github.com/kojix2/llama.cr) ☆4
 
 </td><td valign="top">
 
