@@ -65,7 +65,7 @@ Crystal
 * [EasyClip](https://github.com/kojix2/easyclip) ☆1
 * [checksum.cr](https://github.com/kojix2/checksum.cr) ☆0
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
-* [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆3
+* [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆4
 * [llama.cr](https://github.com/kojix2/llama.cr) ☆4
 
 </td><td valign="top">
@@ -76,7 +76,7 @@ Crystal
 * [wombat](https://github.com/kojix2/wombat) ☆1
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆3
 * [lolcat.cr](https://github.com/kojix2/lolcat.cr) ☆2
-* [zenity.cr](https://github.com/kojix2/zenity.cr) ☆2
+* [zenity.cr](https://github.com/kojix2/zenity.cr) ☆3
 * [uing](https://github.com/kojix2/uing) ☆2
 * [deepl-gui](https://github.com/kojix2/deepl-gui) ☆0
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
