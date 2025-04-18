@@ -30,7 +30,7 @@ Ruby
 * [ruby-htslib](https://github.com/kojix2/ruby-htslib) ☆10
 * [ruby-minimap2](https://github.com/kojix2/ruby-minimap2) ☆14
 * [bio-twobit](https://github.com/kojix2/bio-twobit) ☆1
-* [ruby-igv](https://github.com/kojix2/ruby-igv) ☆0
+* [ruby-igv](https://github.com/kojix2/ruby-igv) ☆1
 * [bio-cgranges](https://github.com/kojix2/bio-cgranges) ☆0
 * [ruby-edlib](https://github.com/kojix2/ruby-edlib) ☆2
 * [ruby-libssw](https://github.com/kojix2/ruby-libssw) ☆4
