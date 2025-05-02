@@ -27,7 +27,7 @@ Ruby
 
 * [samtools-mruby](https://github.com/kojix2/samtools-mruby) ☆0
 * [bcftools-mruby](https://github.com/kojix2/bcftools-mruby) ☆0
-* [ruby-htslib](https://github.com/kojix2/ruby-htslib) ☆10
+* [ruby-htslib](https://github.com/kojix2/ruby-htslib) ☆11
 * [ruby-minimap2](https://github.com/kojix2/ruby-minimap2) ☆14
 * [bio-twobit](https://github.com/kojix2/bio-twobit) ☆1
 * [ruby-igv](https://github.com/kojix2/ruby-igv) ☆1
@@ -61,7 +61,7 @@ Crystal
 * [GR.cr](https://github.com/kojix2/GR.cr) ☆0
 * [randn.cr](https://github.com/kojix2/randn.cr) ☆1
 * [nworker.cr](https://github.com/kojix2/nworkers.cr) ☆1
-* [deepl.cr](https://github.com/kojix2/deepl.cr) ☆1
+* [deepl.cr](https://github.com/kojix2/deepl.cr) ☆2
 * [EasyClip](https://github.com/kojix2/easyclip) ☆1
 * [checksum.cr](https://github.com/kojix2/checksum.cr) ☆0
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
