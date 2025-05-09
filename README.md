@@ -58,6 +58,7 @@ Ruby
 
 Crystal
 
+* [crit](https://github.com/kojix2/crit) ☆0
 * [GR.cr](https://github.com/kojix2/GR.cr) ☆0
 * [randn.cr](https://github.com/kojix2/randn.cr) ☆1
 * [nworker.cr](https://github.com/kojix2/nworkers.cr) ☆1
