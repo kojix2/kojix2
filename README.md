@@ -3,7 +3,7 @@
 ### Popular
 
 * [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.3k
-* [LibUI](https://github.com/kojix2/LibUI) ☆216
+* [LibUI](https://github.com/kojix2/LibUI) ☆217
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆94
 * [chatgpt-cli](https://github.com/kojix2/chatgpt-cli) ☆25
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆35
@@ -17,7 +17,7 @@ Committer
 
 Web App
 
-* [tokei-api](https://github.com/kojix2/tokei-api) ☆1
+* [tokei-api](https://github.com/kojix2/tokei-api) ☆2
 
 </td><td valign="top">
 
