@@ -61,7 +61,7 @@ Crystal
 
 * [llama.cr](https://github.com/kojix2/llama.cr) ☆4
 * [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆5
-* [crit](https://github.com/kojix2/crit) ☆0
+* [crython](https://github.com/kojix2/crython) ☆0
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
 * [GR.cr](https://github.com/kojix2/GR.cr) ☆0
 * [randn.cr](https://github.com/kojix2/randn.cr) ☆1
@@ -80,6 +80,7 @@ Crystal
 * [lolcat.cr](https://github.com/kojix2/lolcat.cr) ☆2
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆3
 * [deepl-gui](https://github.com/kojix2/deepl-gui) ☆0
+* [crit](https://github.com/kojix2/crit) ☆0
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
 
 </td><td valign="top">
