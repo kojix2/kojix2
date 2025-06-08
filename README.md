@@ -44,6 +44,7 @@ Crystal
 * [sdust.cr](https://github.com/kojix2/sdust.cr) ☆1
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [fastx.cr](https://github.com/kojix2/fastx.cr) ☆1
+* [mmistat](https://github.com/bio-cr/mmistat) ☆0
 
 </td><td valign="top">
 
