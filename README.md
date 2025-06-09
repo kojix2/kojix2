@@ -18,7 +18,7 @@ Committer
 
 Web App
 
-* [tokei-api](https://github.com/kojix2/tokei-api) ☆2
+* [tokei-api](https://github.com/kojix2/tokei-api) ☆3
 
 </td><td valign="top">
 
