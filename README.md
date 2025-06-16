@@ -14,7 +14,7 @@
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆917
+* [IRuby](https://github.com/sciruby/iruby) ☆916
 
 Web App
 
