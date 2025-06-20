@@ -66,7 +66,6 @@ Crystal
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
 * [GR.cr](https://github.com/kojix2/GR.cr) ☆0
 * [randn.cr](https://github.com/kojix2/randn.cr) ☆1
-* [nworker.cr](https://github.com/kojix2/nworkers.cr) ☆1
 * [deepl.cr](https://github.com/kojix2/deepl.cr) ☆2
 * [EasyClip](https://github.com/kojix2/easyclip) ☆1
 * [checksum.cr](https://github.com/kojix2/checksum.cr) ☆0
