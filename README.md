@@ -6,7 +6,7 @@
 * [LibUI](https://github.com/kojix2/LibUI) ☆220
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆95
 * [chatgpt-cli](https://github.com/kojix2/chatgpt-cli) ☆25
-* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆38
+* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆39
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆12
 * [uing](https://github.com/kojix2/uing) ☆3
