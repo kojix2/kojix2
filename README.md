@@ -13,7 +13,7 @@
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆919
+* [IRuby](https://github.com/sciruby/iruby) ☆920
 
 Web App
 
@@ -60,7 +60,7 @@ Ruby
 Crystal
 
 * [llama.cr](https://github.com/kojix2/llama.cr) ☆4
-* [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆5
+* [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆6
 * [crython](https://github.com/kojix2/crython) ☆3
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
 * [GR.cr](https://github.com/kojix2/GR.cr) ☆0
