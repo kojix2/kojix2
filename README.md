@@ -79,6 +79,7 @@ Crystal
 * [lolcat.cr](https://github.com/kojix2/lolcat.cr) ☆2
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆3
 * [deepl-gui](https://github.com/kojix2/deepl-gui) ☆0
+* [vvsay](https://github.com/kojix2/vvsay) ☆0
 * [crit](https://github.com/kojix2/crit) ☆0
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
 
