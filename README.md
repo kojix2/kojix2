@@ -63,7 +63,7 @@ Crystal
 * [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆6
 * [crython](https://github.com/kojix2/crython) ☆3
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
-* [GR.cr](https://github.com/crystal-data/GR.cr) ☆0
+* [GR.cr](https://github.com/crystal-data/GR.cr) ☆13
 * [randn.cr](https://github.com/kojix2/randn.cr) ☆1
 * [deepl.cr](https://github.com/kojix2/deepl.cr) ☆2
 * [EasyClip](https://github.com/kojix2/easyclip) ☆1
