@@ -8,7 +8,7 @@
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆41
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆12
-* [uing](https://github.com/kojix2/uing) ☆5
+* [uing](https://github.com/kojix2/uing) ☆7
 * [gpscan](https://github.com/kojix2/gpscan) ☆1
 
 Committer
@@ -61,7 +61,7 @@ Crystal
 
 * [llama.cr](https://github.com/kojix2/llama.cr) ☆4
 * [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆6
-* [crython](https://github.com/kojix2/crython) ☆3
+* [crython](https://github.com/kojix2/crython) ☆2
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
 * [GR.cr](https://github.com/crystal-data/GR.cr) ☆13
 * [randn.cr](https://github.com/kojix2/randn.cr) ☆1
