@@ -60,7 +60,7 @@ Ruby
 Crystal
 
 * [llama.cr](https://github.com/kojix2/llama.cr) ☆4
-* [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆6
+* [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆7
 * [crython](https://github.com/kojix2/crython) ☆2
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
 * [GR.cr](https://github.com/crystal-data/GR.cr) ☆13
