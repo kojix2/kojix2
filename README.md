@@ -5,10 +5,10 @@
 * [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.4k
 * [LibUI](https://github.com/kojix2/LibUI) ☆221
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆95
-* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆41
+* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆42
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆12
-* [uing](https://github.com/kojix2/uing) ☆8
+* [uing](https://github.com/kojix2/uing) ☆11
 * [gpscan](https://github.com/kojix2/gpscan) ☆1
 
 Committer
@@ -39,7 +39,7 @@ Ruby
 
 Crystal
 
-* [hts.cr](https://github.com/bio-cr/hts.cr) ☆10
+* [hts.cr](https://github.com/bio-cr/hts.cr) ☆11
 * [sdust.cr](https://github.com/kojix2/sdust.cr) ☆1
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [fastx.cr](https://github.com/kojix2/fastx.cr) ☆2
@@ -62,8 +62,8 @@ Crystal
 * [llama.cr](https://github.com/kojix2/llama.cr) ☆4
 * [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆7
 * [crython](https://github.com/kojix2/crython) ☆2
-* [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆4
-* [GR.cr](https://github.com/crystal-data/GR.cr) ☆13
+* [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆5
+* [GR.cr](https://github.com/crystal-data/GR.cr) ☆14
 * [randn.cr](https://github.com/kojix2/randn.cr) ☆1
 * [deepl.cr](https://github.com/kojix2/deepl.cr) ☆2
 * [EasyClip](https://github.com/kojix2/easyclip) ☆1
