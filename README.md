@@ -5,7 +5,7 @@
 * [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.4k
 * [LibUI](https://github.com/kojix2/LibUI) ☆222
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆95
-* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆42
+* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆43
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆12
 * [uing](https://github.com/kojix2/uing) ☆13
@@ -13,7 +13,7 @@
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆922
+* [IRuby](https://github.com/sciruby/iruby) ☆921
 
 Web App
 
