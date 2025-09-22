@@ -8,8 +8,8 @@
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆43
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆12
-* [uing](https://github.com/kojix2/uing) ☆13
-* [gpscan](https://github.com/kojix2/gpscan) ☆1
+* [uing](https://github.com/kojix2/uing) ☆14
+* [gpscan](https://github.com/kojix2/gpscan) ☆2
 
 Committer
 
@@ -39,7 +39,7 @@ Ruby
 
 Crystal
 
-* [hts.cr](https://github.com/bio-cr/hts.cr) ☆11
+* [hts.cr](https://github.com/bio-cr/hts.cr) ☆12
 * [sdust.cr](https://github.com/kojix2/sdust.cr) ☆1
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [fastx.cr](https://github.com/kojix2/fastx.cr) ☆2
