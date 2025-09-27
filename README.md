@@ -5,19 +5,19 @@
 * [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.4k
 * [LibUI](https://github.com/kojix2/LibUI) ☆222
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆95
-* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆43
+* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆44
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆12
-* [uing](https://github.com/kojix2/uing) ☆14
+* [uing](https://github.com/kojix2/uing) ☆15
 * [gpscan](https://github.com/kojix2/gpscan) ☆2
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆924
+* [IRuby](https://github.com/sciruby/iruby) ☆925
 
 Web App
 
-* [tokei-api](https://github.com/kojix2/tokei-api) ☆3
+* [tokei-api](https://github.com/kojix2/tokei-api) ☆4
 
 </td><td valign="top">
 
