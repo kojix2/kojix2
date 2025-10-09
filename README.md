@@ -7,7 +7,7 @@
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆95
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆45
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
-* [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆12
+* [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆13
 * [uing](https://github.com/kojix2/uing) ☆14
 * [gpscan](https://github.com/kojix2/gpscan) ☆2
 
