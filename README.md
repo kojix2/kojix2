@@ -8,7 +8,7 @@
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆45
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆13
-* [uing](https://github.com/kojix2/uing) ☆14
+* [uing](https://github.com/kojix2/uing) ☆15
 * [gpscan](https://github.com/kojix2/gpscan) ☆2
 
 Committer
