@@ -4,7 +4,7 @@
 
 * [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.5k
 * [LibUI](https://github.com/kojix2/LibUI) ☆224
-* [GR.rb](https://github.com/red-data-tools/GR.rb) ☆95
+* [GR.rb](https://github.com/red-data-tools/GR.rb) ☆96
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆48
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆13
