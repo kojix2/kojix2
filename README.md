@@ -39,7 +39,7 @@ Ruby
 
 Crystal
 
-* [hts.cr](https://github.com/bio-cr/hts.cr) ☆12
+* [hts.cr](https://github.com/bio-cr/hts.cr) ☆13
 * [sdust.cr](https://github.com/kojix2/sdust.cr) ☆1
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [fastx.cr](https://github.com/kojix2/fastx.cr) ☆2
@@ -78,7 +78,7 @@ Crystal
 * [wombat](https://github.com/kojix2/wombat) ☆1
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆3
 * [lolcat.cr](https://github.com/kojix2/lolcat.cr) ☆3
-* [zenity.cr](https://github.com/kojix2/zenity.cr) ☆3
+* [zenity.cr](https://github.com/kojix2/zenity.cr) ☆4
 * [deepl-gui](https://github.com/kojix2/deepl-gui) ☆1
 * [vvsay](https://github.com/kojix2/vvsay) ☆1
 * [crit](https://github.com/kojix2/crit) ☆0
