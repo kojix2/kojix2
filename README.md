@@ -2,10 +2,10 @@
 
 ### Popular
 
-* [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.5k
+* [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.6k
 * [LibUI](https://github.com/kojix2/LibUI) ☆224
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆96
-* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆50
+* [deepl-cli](https://github.com/kojix2/deepl-cli) ☆51
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆13
 * [uing](https://github.com/kojix2/uing) ☆21
