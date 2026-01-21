@@ -9,7 +9,7 @@
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆13
 * [uing](https://github.com/kojix2/uing) ☆23
-* [gpscan](https://github.com/kojix2/gpscan) ☆2
+* [gpscan](https://github.com/kojix2/gpscan) ☆3
 
 Committer
 
@@ -78,7 +78,7 @@ Crystal
 * [wombat](https://github.com/kojix2/wombat) ☆1
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆3
 * [lolcat.cr](https://github.com/kojix2/lolcat.cr) ☆3
-* [zenity.cr](https://github.com/kojix2/zenity.cr) ☆4
+* [zenity.cr](https://github.com/kojix2/zenity.cr) ☆5
 * [deepl-gui](https://github.com/kojix2/deepl-gui) ☆1
 * [vvsay](https://github.com/kojix2/vvsay) ☆1
 * [crit](https://github.com/kojix2/crit) ☆0
