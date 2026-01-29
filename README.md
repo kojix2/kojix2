@@ -9,7 +9,7 @@
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆13
 * [uing](https://github.com/kojix2/uing) ☆23
-* [gpscan](https://github.com/kojix2/gpscan) ☆3
+* [gpscan](https://github.com/kojix2/gpscan) ☆4
 
 Committer
 
