@@ -62,7 +62,7 @@ Crystal
 * [llama.cr](https://github.com/kojix2/llama.cr) ☆4
 * [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆8
 * [crython](https://github.com/kojix2/crython) ☆2
-* [raudio.cr](https://github.com/kojix2/raudio.cr) ☆1
+* [raudio.cr](https://github.com/kojix2/raudio.cr) ☆2
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆5
 * [GR.cr](https://github.com/crystal-data/GR.cr) ☆14
 * [randn.cr](https://github.com/kojix2/randn.cr) ☆1
