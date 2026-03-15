@@ -13,7 +13,7 @@
 
 Committer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆925
+* [IRuby](https://github.com/sciruby/iruby) ☆924
 
 Web App
 
@@ -51,7 +51,7 @@ Crystal
 
 Ruby
 
-* [rubio-radio](https://github.com/kojix2/rubio-radio) ☆17
+* [rubio-radio](https://github.com/kojix2/rubio-radio) ☆18
 * [ruby-alglib](https://github.com/kojix2/ruby-alglib) ☆6
 * [ffi-bitfield](https://github.com/kojix2/ffi-bitfield) ☆5
 * [gray_scott_gtk3](https://github.com/kojix2/gray_scott_gtk3) ☆3
