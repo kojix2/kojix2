@@ -39,7 +39,7 @@ Ruby
 
 Crystal
 
-* [hts.cr](https://github.com/bio-cr/hts.cr) ☆13
+* [hts.cr](https://github.com/bio-cr/hts.cr) ☆14
 * [sdust.cr](https://github.com/kojix2/sdust.cr) ☆1
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [fastx.cr](https://github.com/kojix2/fastx.cr) ☆2
