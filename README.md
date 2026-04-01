@@ -3,10 +3,10 @@
 ### Popular
 
 * [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.7k
-* [LibUI](https://github.com/kojix2/LibUI) ☆228
+* [LibUI](https://github.com/kojix2/LibUI) ☆229
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆96
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆55
-* [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆8
+* [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆9
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆13
 * [uing](https://github.com/kojix2/uing) ☆27
 * [gpscan](https://github.com/kojix2/gpscan) ☆4
@@ -60,7 +60,7 @@ Ruby
 Crystal
 
 * [llama.cr](https://github.com/kojix2/llama.cr) ☆4
-* [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆8
+* [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆9
 * [crython](https://github.com/kojix2/crython) ☆3
 * [raudio.cr](https://github.com/kojix2/raudio.cr) ☆2
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆5
