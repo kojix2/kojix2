@@ -87,8 +87,8 @@ Crystal
 * [vvsay](https://github.com/kojix2/vvsay) ☆1
 * [crit](https://github.com/kojix2/crit) ☆0
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
-
-* [wasm-libs](https://github.com/kojix2/wasm-libs)
+* [wasm-libs](https://github.com/kojix2/wasm-libs) ☆0
+* [crys](https://github.com/kojix2/crys) ☆0
 
 </td><td valign="top">
 
