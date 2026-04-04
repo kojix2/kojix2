@@ -88,6 +88,8 @@ Crystal
 * [crit](https://github.com/kojix2/crit) ☆0
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
 
+* [wasm-libs](https://github.com/kojix2/wasm-libs)
+
 </td><td valign="top">
 
 <img src="https://github.com/user-attachments/assets/b204d192-f51c-4667-91c9-51ca4a698fab" width="100" height="100">
