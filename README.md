@@ -19,6 +19,10 @@ Web App
 
 * [tokei-api](https://github.com/kojix2/tokei-api) ☆3
 
+WASM web app
+
+* [astv.cr](https://github.com/kojix2/astv.cr) ☆0
+
 </td><td valign="top">
 
 ### Bioinformatics
