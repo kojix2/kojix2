@@ -59,7 +59,7 @@ Ruby
 * [ruby-alglib](https://github.com/kojix2/ruby-alglib) ☆6
 * [ffi-bitfield](https://github.com/kojix2/ffi-bitfield) ☆5
 * [gray_scott_gtk3](https://github.com/kojix2/gray_scott_gtk3) ☆3
-* [c2ffi4rb](https://github.com/kojix2/c2ffi4rb) ☆0
+* [c2ffi4rb](https://github.com/kojix2/c2ffi4rb) ☆1
 
 Crystal
 
