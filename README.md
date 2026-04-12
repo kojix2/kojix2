@@ -10,6 +10,7 @@
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆13
 * [uing](https://github.com/kojix2/uing) ☆27
 * [gpscan](https://github.com/kojix2/gpscan) ☆4
+* [crys](https://github.com/kojix2/crys) ☆0
 
 Committer
 
@@ -88,7 +89,6 @@ Crystal
 * [crit](https://github.com/kojix2/crit) ☆0
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
 * [wasm-libs](https://github.com/kojix2/wasm-libs) ☆0
-* [crys](https://github.com/kojix2/crys) ☆0
 
 </td><td valign="top">
 
