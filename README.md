@@ -22,7 +22,7 @@ Web App
 
 WASM web app
 
-* [astv.cr](https://github.com/kojix2/astv.cr) ☆0
+* [astv.cr](https://github.com/kojix2/astv.cr) ☆1
 
 </td><td valign="top">
 
