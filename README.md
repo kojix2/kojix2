@@ -92,10 +92,10 @@ Crystal
 
 ### Nanopore
 
-* [grpc](https://github.com/kojix2/grpc)
-* [proto](https://github.com/kojix2/proto)
-* [minknow.cr](https://github.com/kojix2/minknow)
-* [read_until.cr](https://github.com/kojix2/read_until)
+* [grpc](https://github.com/kojix2/grpc) ☆0
+* [proto](https://github.com/kojix2/proto) ☆0
+* [minknow.cr](https://github.com/kojix2/minknow) ☆0
+* [read_until.cr](https://github.com/kojix2/read_until) ☆0
 
 </td><td valign="top">
 
