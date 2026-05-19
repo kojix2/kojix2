@@ -85,7 +85,7 @@ Crystal
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆5
 * [deepl-gui](https://github.com/kojix2/deepl-gui) ☆1
 * [vvsay](https://github.com/kojix2/vvsay) ☆1
-* [crit](https://github.com/kojix2/crit) ☆0
+* [crit](https://github.com/kojix2/crit) ☆1
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
 * [wasm-libs](https://github.com/kojix2/wasm-libs) ☆0
 
