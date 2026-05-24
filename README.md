@@ -63,7 +63,7 @@ Ruby
 
 Crystal
 
-* [llama.cr](https://github.com/kojix2/llama.cr) ☆4
+* [llama.cr](https://github.com/kojix2/llama.cr) ☆5
 * [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆9
 * [crython](https://github.com/kojix2/crython) ☆3
 * [raudio.cr](https://github.com/kojix2/raudio.cr) ☆2
