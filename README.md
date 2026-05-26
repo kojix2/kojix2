@@ -35,7 +35,7 @@ Ruby
 
 * [ruby-htslib](https://github.com/kojix2/ruby-htslib) ☆11
 * [ruby-minimap2](https://github.com/kojix2/ruby-minimap2) ☆14
-* * [samtools-mruby](https://github.com/kojix2/samtools-mruby) ☆0
+* [samtools-mruby](https://github.com/kojix2/samtools-mruby) ☆0
 * [bio-twobit](https://github.com/kojix2/bio-twobit) ☆1
 * [ruby-igv](https://github.com/kojix2/ruby-igv) ☆1
 * [bio-cgranges](https://github.com/kojix2/bio-cgranges) ☆0
