@@ -7,12 +7,15 @@
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆96
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆54
 * [uing](https://github.com/kojix2/uing) ☆32
-* [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆9
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆13
 * [gpscan](https://github.com/kojix2/gpscan) ☆5
 * [crys](https://github.com/kojix2/crys) ☆0
 
-Committer
+Fork
+
+* [libui-ng](https://github.com/kojix2/libui-ng) ☆0
+
+Maintainer
 
 * [IRuby](https://github.com/sciruby/iruby) ☆925
 
@@ -56,6 +59,7 @@ Crystal
 Ruby
 
 * [rubio-radio](https://github.com/kojix2/rubio-radio) ☆18
+* [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆9
 * [ruby-alglib](https://github.com/kojix2/ruby-alglib) ☆6
 * [ffi-bitfield](https://github.com/kojix2/ffi-bitfield) ☆5
 * [gray_scott_gtk3](https://github.com/kojix2/gray_scott_gtk3) ☆3
