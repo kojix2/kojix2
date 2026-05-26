@@ -11,10 +11,6 @@
 * [gpscan](https://github.com/kojix2/gpscan) ☆5
 * [crys](https://github.com/kojix2/crys) ☆0
 
-Fork
-
-* [libui-ng](https://github.com/kojix2/libui-ng) ☆6
-
 Maintainer
 
 * [IRuby](https://github.com/sciruby/iruby) ☆925
@@ -27,15 +23,19 @@ WASM web app
 
 * [astv.cr](https://github.com/kojix2/astv.cr) ☆1
 
+Fork
+
+* [libui-ng](https://github.com/kojix2/libui-ng) ☆6
+
 </td><td valign="top">
 
 ### Bioinformatics
 
 Ruby
 
-* [samtools-mruby](https://github.com/kojix2/samtools-mruby) ☆0
 * [ruby-htslib](https://github.com/kojix2/ruby-htslib) ☆11
 * [ruby-minimap2](https://github.com/kojix2/ruby-minimap2) ☆14
+* * [samtools-mruby](https://github.com/kojix2/samtools-mruby) ☆0
 * [bio-twobit](https://github.com/kojix2/bio-twobit) ☆1
 * [ruby-igv](https://github.com/kojix2/ruby-igv) ☆1
 * [bio-cgranges](https://github.com/kojix2/bio-cgranges) ☆0
@@ -47,9 +47,10 @@ Ruby
 Crystal
 
 * [hts.cr](https://github.com/bio-cr/hts.cr) ☆14
-* [sdust.cr](https://github.com/kojix2/sdust.cr) ☆1
-* [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [fastx.cr](https://github.com/kojix2/fastx.cr) ☆2
+* [sdust.cr](https://github.com/kojix2/sdust.cr) ☆1
+* [minimap2-cr](https://github.com/kojix2/minimap2-cr) ☆0
+* [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [mmistat](https://github.com/bio-cr/mmistat) ☆0
 
 </td><td valign="top">
@@ -67,8 +68,8 @@ Ruby
 
 Crystal
 
-* [llama.cr](https://github.com/kojix2/llama.cr) ☆5
 * [onnxruntime.cr](https://github.com/kojix2/onnxruntime.cr) ☆9
+* [llama.cr](https://github.com/kojix2/llama.cr) ☆5
 * [crython](https://github.com/kojix2/crython) ☆3
 * [raudio.cr](https://github.com/kojix2/raudio.cr) ☆2
 * [tiktoken-cr](https://github.com/kojix2/tiktoken-cr) ☆5
@@ -93,7 +94,7 @@ Crystal
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
 * [wasm-libs](https://github.com/kojix2/wasm-libs) ☆0
 
-### Nanopore
+Nanopore
 
 * [grpc.cr](https://github.com/kojix2/grpc) ☆4
 * [proto.cr](https://github.com/kojix2/proto) ☆0
