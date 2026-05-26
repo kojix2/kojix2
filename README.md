@@ -13,7 +13,7 @@
 
 Fork
 
-* [libui-ng](https://github.com/kojix2/libui-ng) ☆0
+* [libui-ng](https://github.com/kojix2/libui-ng) ☆6
 
 Maintainer
 
