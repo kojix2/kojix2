@@ -49,7 +49,7 @@ Crystal
 * [hts.cr](https://github.com/bio-cr/hts.cr) ☆14
 * [fastx.cr](https://github.com/kojix2/fastx.cr) ☆2
 * [sdust.cr](https://github.com/kojix2/sdust.cr) ☆1
-* [minimap2-cr](https://github.com/kojix2/minimap2-cr) ☆0
+* [minimap2-cr](https://github.com/kojix2/minimap2-cr) ☆1
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [mmistat](https://github.com/bio-cr/mmistat) ☆0
 
