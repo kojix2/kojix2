@@ -59,7 +59,7 @@ Crystal
 
 Ruby
 
-* [rubio-radio](https://github.com/kojix2/rubio-radio) ☆18
+* [rubio-radio](https://github.com/kojix2/rubio-radio) ☆19
 * [ruby-umappp](https://github.com/kojix2/ruby-umappp) ☆9
 * [ruby-alglib](https://github.com/kojix2/ruby-alglib) ☆6
 * [ffi-bitfield](https://github.com/kojix2/ffi-bitfield) ☆5
