@@ -53,6 +53,10 @@ Crystal
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [mmistat](https://github.com/bio-cr/mmistat) ☆0
 
+Other
+
+* [bni](https://github.com/kojix2/bni) ☆0
+
 </td><td valign="top">
 
 ### Misc 1
@@ -88,8 +92,8 @@ Crystal
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆3
 * [lolcat.cr](https://github.com/kojix2/lolcat.cr) ☆3
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆5
-* [deepl-gui](https://github.com/kojix2/deepl-gui) ☆1
-* [vvsay](https://github.com/kojix2/vvsay) ☆1
+* [memo.cr](https://github.com/kojix2/memo.cr) ☆0
+* [vovx](https://github.com/kojix2/vovx) ☆0
 * [crit](https://github.com/kojix2/crit) ☆1
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
 * [wasm-libs](https://github.com/kojix2/wasm-libs) ☆0
