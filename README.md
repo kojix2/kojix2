@@ -92,8 +92,8 @@ Crystal
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆3
 * [lolcat.cr](https://github.com/kojix2/lolcat.cr) ☆3
 * [zenity.cr](https://github.com/kojix2/zenity.cr) ☆5
-* [memo.cr](https://github.com/kojix2/memo.cr) ☆0
-* [vovx](https://github.com/kojix2/vovx) ☆0
+* [memo.cr](https://github.com/kojix2/memo.cr) ☆3
+* [vovx](https://github.com/kojix2/vovx) ☆2
 * [crit](https://github.com/kojix2/crit) ☆1
 * [toolbox](https://github.com/kojix2/toolbox) ☆0
 * [wasm-libs](https://github.com/kojix2/wasm-libs) ☆0
