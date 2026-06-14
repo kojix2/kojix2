@@ -56,6 +56,7 @@ Crystal
 Other
 
 * [bni](https://github.com/kojix2/bni) ☆0
+* [qbix](https://github.com/kojix2/qbix) ☆0
 
 </td><td valign="top">
 
