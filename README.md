@@ -13,7 +13,7 @@
 
 Maintainer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆925
+* [IRuby](https://github.com/sciruby/iruby) ☆926
 
 Web App
 
@@ -25,7 +25,7 @@ WASM web app
 
 Fork
 
-* [libui-ng](https://github.com/kojix2/libui-ng) ☆6
+* [libui-ng](https://github.com/kojix2/libui-ng) ☆7
 
 </td><td valign="top">
 
