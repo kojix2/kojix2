@@ -58,6 +58,7 @@ Other
 * [bni](https://github.com/kojix2/bni) ☆0
 * [qbix](https://github.com/kojix2/qbix) ☆0
 * [libbiosyntax](https://github.com/kojix2/libbiosyntax) ☆0
+* [tyclone](https://github.com/kojix2/tyclone) ☆0
 
 </td><td valign="top">
 
