@@ -34,7 +34,7 @@ Fork
 Ruby
 
 * [dratools](https://github.com/kojix2/dratools) ☆0
-* [ruby-htslib](https://github.com/kojix2/ruby-htslib) ☆11
+* [ruby-htslib](https://github.com/kojix2/ruby-htslib) ☆12
 * [ruby-minimap2](https://github.com/kojix2/ruby-minimap2) ☆14
 * [samtools-mruby](https://github.com/kojix2/samtools-mruby) ☆0
 * [bio-twobit](https://github.com/kojix2/bio-twobit) ☆1
