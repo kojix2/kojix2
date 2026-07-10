@@ -31,6 +31,9 @@ Fork
 
 ### Bioinformatics
 
+* [qbix](https://github.com/kojix2/qbix) ☆0
+* [libbiosyntax](https://github.com/kojix2/libbiosyntax) ☆0
+
 Ruby
 
 * [dratools](https://github.com/kojix2/dratools) ☆0
@@ -57,9 +60,7 @@ Crystal
 Other
 
 * [bni](https://github.com/kojix2/bni) ☆0
-* [qbix](https://github.com/kojix2/qbix) ☆0
 * [fqix](https://github.com/kojix2/fqix) ☆0
-* [libbiosyntax](https://github.com/kojix2/libbiosyntax) ☆0
 * [unclone](https://github.com/kojix2/tyclone) ☆0
 
 </td><td valign="top">
