@@ -13,7 +13,7 @@
 
 Maintainer
 
-* [IRuby](https://github.com/sciruby/iruby) ☆926
+* [IRuby](https://github.com/sciruby/iruby) ☆927
 
 Web App
 
