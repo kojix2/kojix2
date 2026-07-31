@@ -2,7 +2,7 @@
 
 ### Popular
 
-* [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.7k
+* [YouPlot](https://github.com/red-data-tools/YouPlot) ☆4.8k
 * [LibUI](https://github.com/kojix2/LibUI) ☆232
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆97
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆57
