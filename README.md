@@ -94,6 +94,7 @@ Crystal
 
 ### Misc 2
 
+* [orbits](https://github.com/kojix2/orbits) ☆0
 * [bat-c](https://github.com/kojix2/bat-c) ☆2
 * [wombat](https://github.com/kojix2/wombat) ☆1
 * [cowsay.cr](https://github.com/kojix2/cowsay.cr) ☆3
