@@ -7,7 +7,7 @@
 * [LibUI](https://github.com/kojix2/LibUI) ☆232
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆97
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆57
-* [uing](https://github.com/kojix2/uing) ☆34
+* [uing](https://github.com/kojix2/uing) ☆35
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆13
 * [gpscan](https://github.com/kojix2/gpscan) ☆6
 * [crys](https://github.com/kojix2/crys) ☆0
