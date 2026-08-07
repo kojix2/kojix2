@@ -89,7 +89,7 @@ Crystal
 * [randn.cr](https://github.com/kojix2/randn.cr) ☆1
 * [deepl.cr](https://github.com/kojix2/deepl.cr) ☆3
 * [EasyClip](https://github.com/kojix2/easyclip) ☆2
-* [verisum](https://github.com/kojix2/verisum) ☆0
+* [verisum](https://github.com/kojix2/verisum) ☆1
 
 </td><td valign="top">
 
