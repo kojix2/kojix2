@@ -35,6 +35,10 @@ Fork
 * [qbix](https://github.com/kojix2/qbix) ☆0
 * [libbiosyntax](https://github.com/kojix2/libbiosyntax) ☆0
 * [dratools](https://github.com/kojix2/dratools) ☆0
+* [bni](https://github.com/kojix2/bni) ☆0
+* [fqix](https://github.com/kojix2/fqix) ☆0
+* [unclone](https://github.com/kojix2/tyclone) ☆0
+* [LICHeE C++](https://github.com/kojix2/lichee.cpp) ☆0
 
 Ruby
 
@@ -58,12 +62,6 @@ Crystal
 * [minimap2-cr](https://github.com/kojix2/minimap2-cr) ☆1
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [mmistat](https://github.com/bio-cr/mmistat) ☆0
-
-Other
-
-* [bni](https://github.com/kojix2/bni) ☆0
-* [fqix](https://github.com/kojix2/fqix) ☆0
-* [unclone](https://github.com/kojix2/tyclone) ☆0
 
 </td><td valign="top">
 
