@@ -9,7 +9,7 @@
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆58
 * [uing](https://github.com/kojix2/uing) ☆35
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆13
-* [gpscan](https://github.com/kojix2/gpscan) ☆6
+* [gpscan](https://github.com/kojix2/gpscan) ☆7
 * [crys](https://github.com/kojix2/crys) ☆0
 
 Maintainer
