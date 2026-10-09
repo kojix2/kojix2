@@ -7,7 +7,7 @@
 * [LibUI](https://github.com/kojix2/LibUI) ☆233
 * [GR.rb](https://github.com/red-data-tools/GR.rb) ☆98
 * [deepl-cli](https://github.com/kojix2/deepl-cli) ☆58
-* [uing](https://github.com/kojix2/uing) ☆41
+* [uing](https://github.com/kojix2/uing) ☆42
 * [tiktoken-c](https://github.com/kojix2/tiktoken-c) ☆13
 * [gpscan](https://github.com/kojix2/gpscan) ☆8
 * [crys](https://github.com/kojix2/crys) ☆0
@@ -26,7 +26,7 @@ WASM web app
 
 Fork
 
-* [libui-ng](https://github.com/kojix2/libui-ng) ☆13
+* [libui-ng](https://github.com/kojix2/libui-ng) ☆14
 
 </td><td valign="top">
 
