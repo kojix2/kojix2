@@ -61,6 +61,7 @@ Crystal
 * [minimap2-cr](https://github.com/kojix2/minimap2-cr) ☆1
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [mmistat](https://github.com/bio-cr/mmistat) ☆0
+* [d4.cr](https://github.com/bio-cr/d4.cr) ☆0
 
 </td><td valign="top">
 
