@@ -38,6 +38,7 @@ Fork
 * [bni](https://github.com/kojix2/bni) ☆0
 * [fqix](https://github.com/kojix2/fqix) ☆0
 * [unclone](https://github.com/kojix2/tyclone) ☆0
+* [d4-plot](https://github.com/kojix2/d4-plot) ☆0
 
 Ruby
 
@@ -62,6 +63,7 @@ Crystal
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [mmistat](https://github.com/bio-cr/mmistat) ☆0
 * [d4.cr](https://github.com/bio-cr/d4.cr) ☆0
+* [mopdepth](https://github.com/kojix2/mopdepth)
 
 </td><td valign="top">
 
