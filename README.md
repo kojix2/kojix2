@@ -63,7 +63,7 @@ Crystal
 * [wgsim.cr](https://github.com/kojix2/wgsim.cr) ☆0
 * [mmistat](https://github.com/bio-cr/mmistat) ☆0
 * [d4.cr](https://github.com/bio-cr/d4.cr) ☆0
-* [mopdepth](https://github.com/kojix2/mopdepth)
+* [mopdepth](https://github.com/kojix2/mopdepth) ☆0
 
 </td><td valign="top">
 
