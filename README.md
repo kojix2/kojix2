@@ -113,6 +113,9 @@ Nanopore
 * [proto.cr](https://github.com/kojix2/proto) ☆1
 * [minknow.cr](https://github.com/kojix2/minknow) ☆0
 * [read_until.cr](https://github.com/kojix2/read_until) ☆0
+* [pod5.cr](https://github.com/kojix2/pod5.cr) ☆0
+* [moleflow](https://github.com/kojix2/moleflow) ☆0
+* [adaptive.cr](https://github.com/kojix2/adaptive.cr) ☆0
 
 </td><td valign="top">
 
