@@ -23,6 +23,7 @@ Web App
 WASM web app
 
 * [astv.cr](https://github.com/kojix2/astv.cr) ☆1
+* [Crystal Observatory](https://github.com/kojix2/crystal-observatory)
 
 Fork
 
