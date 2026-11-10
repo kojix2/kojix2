@@ -23,7 +23,7 @@ Web App
 WASM web app
 
 * [astv.cr](https://github.com/kojix2/astv.cr) ☆1
-* [Crystal Observatory](https://github.com/kojix2/crystal-observatory)
+* [Crystal Observatory](https://github.com/kojix2/crystal-observatory) ☆0
 
 Fork
 
@@ -113,6 +113,7 @@ Nanopore
 * [grpc.cr](https://github.com/kojix2/grpc) ☆5
 * [proto.cr](https://github.com/kojix2/proto) ☆1
 * [minknow.cr](https://github.com/kojix2/minknow) ☆0
+* [minknow-tui](https://github.com/kojix2/minknow-tui) ☆0
 * [read_until.cr](https://github.com/kojix2/read_until) ☆0
 * [pod5.cr](https://github.com/kojix2/pod5.cr) ☆0
 * [moleflow](https://github.com/kojix2/moleflow) ☆0
