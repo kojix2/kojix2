@@ -27,7 +27,7 @@ WASM web app
 
 Fork
 
-* [libui-ng](https://github.com/kojix2/libui-ng) ☆14
+* [libui-ng](https://github.com/kojix2/libui-ng) ☆13
 
 </td><td valign="top">
 
