@@ -89,7 +89,7 @@ Crystal
 * [GR.cr](https://github.com/crystal-data/GR.cr) ☆14
 * [randn.cr](https://github.com/kojix2/randn.cr) ☆1
 * [deepl.cr](https://github.com/kojix2/deepl.cr) ☆3
-* [EasyClip](https://github.com/kojix2/easyclip) ☆2
+* [EasyClip](https://github.com/kojix2/easyclip) ☆3
 * [verisum](https://github.com/kojix2/verisum) ☆2
 
 </td><td valign="top">
